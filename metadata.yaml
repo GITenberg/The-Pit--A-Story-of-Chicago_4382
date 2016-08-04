@@ -1,0 +1,46 @@
+_repo: The-Pit--A-Story-of-Chicago_4382
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Norris, Frank
+    alias: Norris, Benjamin Franklin
+    birthdate: 1870
+    deathdate: 1902
+    gutenberg_agent_id: '103'
+    url: http://www.gutenberg.org/2009/agents/103
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Norris
+description: '"Reprint of a 1902 novel which tells the story of Curtis Jadwin, a man
+  whose increasing attention to earning money in the wheat market of Chicago almost
+  destroys his marriage." ***"In the sequel to ''The Octopus, '' Curtis Jadwin works
+  so hard to make money on the Chicago stock exchange that he ignores his loving wife."
+  ***"This classic literary critique of turn-of-the-century capitalism in the United
+  States reveals Norris''s powerful story of an obsessed trader intent on cornering
+  the wheat market and the consequences of his unchecked greed." *** "Curtis Jadwin,
+  a successful turn-of-the-century dealer in Chicago real estate, overcomes reluctance
+  and begins gambling in wheat futures in the great Chicago grain market called ''The
+  Pit, '' bring on financial panic across the nation. Jadwin''s pursuit of power and
+  excitement through speculation had estranged him from his beautiful wife, Laura,
+  who had found herself losing out to the Pit in competition for his live and attention.
+  But the collapse of his paper empire, in which he loses everything, real property
+  included, reunites them as they look to begin life anew in the West." Howard. America
+  as Story.'
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4382'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chicago (Ill.) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Wheat trade -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Married people -- Fiction'
+- !lcsh 'Didactic fiction'
+- GITenberg
+title: 'The Pit: A Story of Chicago'
+url: http://www.gutenberg.org/ebooks/4382
