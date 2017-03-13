@@ -1,5 +1,8 @@
 _repo: The-Pit--A-Story-of-Chicago_4382
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Norris, Frank
@@ -24,6 +27,8 @@ description: '"Reprint of a 1902 novel which tells the story of Curtis Jadwin, a
   But the collapse of his paper empire, in which he loses everything, real property
   included, reunites them as they look to begin life anew in the West." Howard. America
   as Story.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4382#The-Pit--A-Story-of-Chicago
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2003-08-01'
 gutenberg_type: Text
